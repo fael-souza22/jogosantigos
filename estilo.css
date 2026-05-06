@@ -1,0 +1,66 @@
+@import url();
+
+body {
+    background-color: #4b4453;
+}
+
+h1 {
+    font-size: 77px;
+    color: #8851e1;
+    text-align: center;
+    background-color: #008d6f;
+
+
+}
+
+h2 {
+    color: #008d6f;
+    /* cor do sub...*/
+    text-align: center;
+    /* sub. centra...*/
+
+}
+
+p {
+    color: aliceblue;
+    /* cor dos textos*/
+    text-align: justify;
+    /* texto jus*/
+}
+
+ul {
+    width: fit-content;
+    /* faz a largura se ajustar ao conteúdo */
+    /*lista*/
+    margin: 0 auto;
+    /* centraliza horizontalmente */
+    /*lista*/
+}
+
+img {
+    display: block;
+    /*img cen*/
+    /*centralizar img*/
+    margin: auto;
+    width: 50%;
+}
+
+.conteudo-padrao {
+    padding: 30px;
+}
+
+#intro-pag {
+    padding: 30px;
+
+
+    h1 {
+        font-size: 77px;
+        color: #8851e1;
+        text-align: center;
+        background-color: #008d6f;
+    }
+
+}
+a{
+    color: white;
+}

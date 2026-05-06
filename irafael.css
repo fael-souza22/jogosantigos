@@ -1,0 +1,27 @@
+body {
+    background-color: #4b4453;
+}
+
+h1 {
+    font-size: 77px;
+    color: #8851e1;
+    text-align: center;
+    background-color: #008d6f;
+
+
+}
+.rafa{
+    width: 400px;
+      display: block;
+    /*img cen*/
+    /*centralizar img*/
+    margin: auto;
+    
+}
+a{font-size: 30px;
+
+}
+{
+     color: black;
+
+}
