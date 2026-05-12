@@ -1,20 +1,20 @@
 @import url();
 
 body {
-    background-color: #4b4453;
+    background-color: #b97453;
 }
 
 h1 {
     font-size: 77px;
-    color: #8851e1;
+    color: #662507;
     text-align: center;
-    background-color: #008d6f;
+    background-color: #293454;
 
 
 }
 
 h2 {
-    color: #008d6f;
+    color: #293454;
     /* cor do sub...*/
     text-align: center;
     /* sub. centra...*/
@@ -22,7 +22,7 @@ h2 {
 }
 
 p {
-    color: aliceblue;
+    color:black;
     /* cor dos textos*/
     text-align: justify;
     /* texto jus*/
@@ -55,12 +55,12 @@ img {
 
     h1 {
         font-size: 77px;
-        color: #8851e1;
-        text-align: center;
-        background-color: #008d6f;
+    color: #662507;
+    text-align: center;
+    background-color: #293454;
     }
 
 }
 a{
-    color: white;
+    color:black;
 }
